@@ -22,7 +22,7 @@ I am **Vicky Kumar**, a Computer Science graduate from **IIT Patna** and the fou
 
 I specialize in building **autonomous AI agents**, **high-performance full-stack web platforms**, and **scalable cloud infrastructure**. From designing production-grade SaaS architectures to engineering self-evolving website operating systems, I turn complex technical challenges into robust, zero-tech-debt products.
 
-- 🎓 **Education:** B.Tech in Computer Science & Engineering, **IIT Patna**
+- 🎓 **Education:** Bs in Computer Science & Data Analytics, **IIT Patna**
 - 🚀 **Founder & Lead Architect:** [Devil Labs](https://devillabs.dev)
 - 🤖 **Core Focus:** Autonomous AI Agents, LLM Integrations (Gemini / GPT-4), Production Web Apps, DevOps & System Hardening
 - 📍 **Location:** India
